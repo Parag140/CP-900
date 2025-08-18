@@ -10,7 +10,7 @@ int main(){
         // agar kuch 2 ki power me nahi hoga to uska odd divisor exist karega hi
         int count = 0;
         for(int i = 0 ; i < 32 ; i++){
-            if(ni == 1) count++;
+            if(n<<i == 1) count++;
         }
         if(count == 1) {
             cout << "NO" << endl; // only one bit is set, means it's a power of 2
