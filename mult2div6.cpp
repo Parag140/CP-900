@@ -6,7 +6,7 @@ int main(){
     while(t--){
         int n;
         cin>>n;
-        int count = -1
+        int count = -0;
         while(n!=1){
 
         }
