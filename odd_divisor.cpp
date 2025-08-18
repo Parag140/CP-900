@@ -11,7 +11,7 @@ int main(){
             continue;
         }
         while(n%2==0){
-
+            
         }
     }
 }
