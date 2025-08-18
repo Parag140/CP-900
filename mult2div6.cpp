@@ -16,11 +16,7 @@ int main(){
             else{
                 n*=2;
             }
-            if (condition)
-            {
-                /* code */
-            }
-            
+            if
             count++;
         }
         cout << count << endl;
