@@ -16,7 +16,7 @@ int main(){
             else{
                 n*=2;
             }
-            if ((condition))
+            if (condition)
             {
                 /* code */
             }
