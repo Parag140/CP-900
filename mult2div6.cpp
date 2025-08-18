@@ -16,6 +16,7 @@ int main(){
             else{
                 n*=2;
             }
+            count++;
         }
     }
 }
