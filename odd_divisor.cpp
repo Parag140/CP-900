@@ -6,8 +6,9 @@ int main(){
     while(t--){
         int n;
         cin>>n;
+        if(n)
         while(n%2==0){
-            
+
         }
     }
 }
