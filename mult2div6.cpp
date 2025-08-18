@@ -12,7 +12,7 @@ int main(){
             continue;
         }
         while(n!=1){
-            if(n%6 == 0)
+            if(n%6 == 0) n = n/6;
         }
     }
 }
