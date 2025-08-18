@@ -6,6 +6,6 @@ int main(){
     while(t--){
         int n;
         cin>>n;
-        while(n%2)
+        while(n%2==0)
     }
 }
