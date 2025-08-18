@@ -15,7 +15,7 @@ int main(){
                 cout<<"YES"<<endl;
                 break;
             }
-           if()
+           if(n)
         }
         cout<<"NO"<<endl;
     }
