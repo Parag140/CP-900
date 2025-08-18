@@ -15,7 +15,7 @@ int main(){
                 cout<<"YES"<<endl;
                 break;
             }
-            n/=2;
+           
         }
         cout<<"NO"<<endl;
     }
