@@ -12,7 +12,7 @@ int main(){
             continue;
         }
         while(n!=1){
-
+            
         }
     }
 }
