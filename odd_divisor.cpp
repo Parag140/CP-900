@@ -12,6 +12,10 @@ int main(){
         for(int i = 0 ; i < 32 ; i++){
             if(n>>i == 1) count++;
         }
-        if(count)
+        if(count == 1) {
+            cout << "NO" << endl; // only one bit is set, means it's a power of 2
+        } else {
+            cout << "YES" << endl; // more than one bit is set, odd divisors exist
+        }
     }
 }
