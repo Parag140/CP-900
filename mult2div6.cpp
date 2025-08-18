@@ -8,7 +8,7 @@ int main(){
         cin>>n;
         int count = 0;
         if(n == 1){
-            cout << "1" << endl;
+            cout << "0" << endl;
             continue;
         }
         while(n!=1){
