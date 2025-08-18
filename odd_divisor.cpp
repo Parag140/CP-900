@@ -8,6 +8,6 @@ int main(){
         cin>>n;
         //we have to check wheter the last bit is on or off
         // agar kuch 2 ki power me nahi hoga to uska odd divisor exist karega hi
-        if(n !=0 )
+        if(n !=0 && (n&(n-1)))
     }
 }
