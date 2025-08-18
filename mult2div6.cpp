@@ -6,7 +6,7 @@ int main(){
     while(t--){
         int n;
         cin>>n;
-        int count = -0;
+        int count = 0;
         if(n == 1){
             cout << "1" << endl;
             continue;
