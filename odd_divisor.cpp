@@ -10,8 +10,8 @@ int main(){
             cout<<"YES"<<endl;
             continue;
         }
-        while(n%2==0){
-            
+        while(n){
+
         }
     }
 }
