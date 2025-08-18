@@ -7,7 +7,7 @@ int main(){
         int n;
         cin>>n;
         if(n%2!=0){
-            cout<<YES<<endl;
+            cout<<"YES"<<endl;
             continue;
         }
         while(n%2==0){
