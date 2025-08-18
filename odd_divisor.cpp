@@ -4,7 +4,7 @@ int main(){
     int t;
     cin>>t;
     while(t--){
-        int n;
+        long long n;
         cin>>n;
         if(n%2!=0){
             cout<<"YES"<<endl;
