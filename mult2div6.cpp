@@ -16,7 +16,10 @@ int main(){
             else{
                 n*=2;
             }
-            if
+            if(n > 1000000000) {
+                count = -1;
+                break;
+            }
             count++;
         }
         cout << count << endl;
