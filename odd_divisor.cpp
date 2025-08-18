@@ -10,7 +10,7 @@ int main(){
             cout<<"YES"<<endl;
             continue;
         }
-        while(n){
+        while(n!=1){
 
         }
     }
